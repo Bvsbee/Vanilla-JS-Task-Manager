@@ -1,1 +1,15 @@
 /* Basic styling of form, buttons, task list, completed task styles*/
+
+body {
+  background-color: white;
+}
+
+.header {
+  background-color: crimson;
+  text-align: center;
+  color: aliceblue;
+}
+
+.center {
+  margin: auto;
+}
